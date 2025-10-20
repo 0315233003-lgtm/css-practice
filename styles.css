@@ -8,6 +8,22 @@ h1 {
     font-size: 60px;
 }
 /* Start here by styling the main div section */
-.main {
-    
+.main { 
+   border-width: 20px;
+   background-color: white;
+   font-size: 100px;
+   border-style: dotted;
+   border-color: rgb(218, 144, 8);
+   margin-left: auto;
+   margin-right: auto;
+   width: fit-content;
+   padding: 90px;
+   padding-left: 200px;
+   padding-right: 200px;
+}
+::after {
+
+}
+:active{
+    color: burlywood;
 }
